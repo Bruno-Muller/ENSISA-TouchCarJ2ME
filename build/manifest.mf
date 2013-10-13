@@ -1,0 +1,7 @@
+MIDlet-1: TouchCar,,touchcar.TouchCarMidlet
+MIDlet-Vendor: Bruno Muller
+MIDlet-Name: TouchCar
+MIDlet-Description: EcarTeam
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
